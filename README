@@ -1,0 +1,9 @@
+JonMyBackup
+Script de Backup para MySQL
+2009.11.26
+
+- Efetua dump do banco MySQL em um arquivo .sql
+- Compacta em bzip2
+- Tira MD5Sum do arquivo, para checagem de integridade
+- Salva em pasta de backup com data e hora no filename.
+
